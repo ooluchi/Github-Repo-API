@@ -1,6 +1,6 @@
 # GitHub Repository Viewer
 
-GitHub Repository Viewer is a web application built with React and React Router, styled using Tailwind CSS. It allows users to browse and paginate through GitHub repositories, view details of individual repositories, and perform search and filter operations.
+GitHub Repository Viewer is a web application built with React and React Router, styled using Tailwind CSS. It allows users to browse and paginate through GitHub repositories, and view details of individual repositories.
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ GitHub Repository Viewer is a web application built with React and React Router,
 4. [Technologies Used](#technologies-used)
 5. [API Documentation](#api-documentation)
 6. [Error Handling](#error-handling)
-7. 
+
 
 
 ### Installation
